@@ -13,7 +13,7 @@ Citation
 
 **Please kindly cite the papers if this code is useful and helpful for your research.**
 
-A. Yang, M. Li, Y. Ding, X. Xiao and Y. He, "An Efficient and Lightweight Spectral-Spatial Feature Graph Contrastive Learning Framework for Hyperspectral Image Clustering," in IEEE Transactions on Geoscience and Remote Sensing, vol. 62, pp. 1-14, 2024, Art no. 5537714, doi: 10.1109/TGRS.2024.3493096.
+Yang, Aitao, et al. "A robust low-pass filtering graph diffusion clustering framework for hyperspectral images." Knowledge-Based Systems (2025): 113782.
 
       @ARTICLE{YANG2025113782,
         author={Aitao Yang and Min Li and Yao Ding and Yaoming Cai and Jie Feng and Yujie He and Yuanchao Su},
