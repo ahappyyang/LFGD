@@ -4,7 +4,7 @@ Aitao Yang; Min Li; Yao Ding; Yaoming Cai; Jie Feng; Yujie He; Yuanchao Su
 
 ___________
 
-The code in this toolbox implements the ["A robust low-pass filtering graph diffusion clustering framework for hyperspectral images"]( https://ieeexplore.ieee.org/document/10746460). 
+The code in this toolbox implements the ["A robust low-pass filtering graph diffusion clustering framework for hyperspectral images"]( https://www.sciencedirect.com/science/article/abs/pii/S0950705125008287). 
 
 
 
